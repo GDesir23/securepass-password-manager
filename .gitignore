@@ -1,0 +1,14 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Java
+*.class
+bin/
+
+# Password data
+passwords.txt
+
+# macOS
+.DS_Store
