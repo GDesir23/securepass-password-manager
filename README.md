@@ -46,8 +46,4 @@ SecurePass/
 │   └── commands.md
 │
 ├── screenshots/
-│
-├── README.md
-├── LICENSE
-└── .gitignore
 ```
