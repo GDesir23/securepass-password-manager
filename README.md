@@ -1,4 +1,4 @@
-# 🔐 SecurePass
+# SecurePass
 
 A Java-based password manager built in Eclipse that allows users to securely manage login credentials through a menu-driven console application. SecurePass demonstrates object-oriented programming, file handling, authentication, and password management concepts using Java.
 
