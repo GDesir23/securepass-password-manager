@@ -46,4 +46,3 @@ SecurePass/
 │   └── commands.md
 │
 ├── screenshots/
-```
